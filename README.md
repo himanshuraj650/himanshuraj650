@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/dragon-fire-banner.svg" width="100%" alt="Himanshu Raj dragon fire banner"/>
+  <img src="./assets/dragon-fire-banner-v2.svg" width="100%" alt="Himanshu Raj dragon fire banner"/>
 </div>
 
 <h3 align="center">Aspiring Full Stack Developer | AI and Web Innovation</h3>
