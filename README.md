@@ -59,7 +59,11 @@ My focus is on:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj650&theme=transparent&hide_border=true" width="56%" alt="streak stats"/>
-  <img src="https://raw.githubusercontent.com/himanshuraj650/himanshuraj650/main/assets/dragon-streak-box.svg?v=1" width="41%" alt="dragon streak box"/>
+  <img src="https://raw.githubusercontent.com/himanshuraj650/himanshuraj650/main/assets/streak-fire-core.svg?v=2" width="41%" alt="streak fire core"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/himanshuraj650/himanshuraj650/output/dragon-trail-fire.svg" width="100%" alt="dragon contribution trail"/>
 </div>
 
 <p align="center">
