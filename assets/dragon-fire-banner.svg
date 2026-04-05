@@ -38,9 +38,6 @@
     <text x="50%" y="88" text-anchor="middle" fill="#f4f8ff" font-family="Segoe UI, Tahoma, sans-serif" font-size="46" font-weight="700" letter-spacing="1.1">
       HIMANSHU RAJ
     </text>
-    <text x="50%" y="124" text-anchor="middle" fill="#8ac9ff" font-family="Segoe UI, Tahoma, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">
-      DRAGON MODE ENABLED
-    </text>
   </g>
 
   <g id="dragon" transform="translate(220 178)">
