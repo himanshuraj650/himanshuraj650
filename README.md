@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:1F2A44&height=220&section=header&text=Himanshu%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Web%20Innovation&descAlignY=58&descAlign=50" width="100%" alt="header"/>
-</div>
+<h1 align="center">Himanshu Raj</h1>
+<h3 align="center">Aspiring Full Stack Developer | AI and Web Innovation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00D1B2?style=for-the-badge" alt="open to collaboration"/>
+  <img src="https://img.shields.io/badge/Focused%20on-Full%20Stack%20%2B%20AI-1F2A44?style=for-the-badge" alt="focus"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=00D1B2&center=true&vCenter=true&width=900&lines=Building+Beautiful+Web+Experiences+with+Real+Impact;Exploring+AI+to+Create+Practical+Product+Features;Crafting+Clean+Frontend+and+Scalable+Backend+Systems;Learning+Daily%2C+Shipping+Consistently" alt="typing intro" />
