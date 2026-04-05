@@ -62,6 +62,10 @@ My focus is on:
   <img src="https://raw.githubusercontent.com/himanshuraj650/himanshuraj650/main/assets/streak-fire-core.svg?v=2" width="41%" alt="streak fire core"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/himanshuraj650/himanshuraj650/output/dragon-trail-fire.svg" width="100%" alt="dragon contribution trail"/>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/himanshuraj650?style=for-the-badge&color=00D1B2" alt="followers"/>
   <img src="https://img.shields.io/github/stars/himanshuraj650/CipherRx?style=for-the-badge&color=1F2A44" alt="cipherrx stars"/>
