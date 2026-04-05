@@ -1,4 +1,7 @@
-<h1 align="center">Himanshu Raj</h1>
+<div align="center">
+  <img src="./assets/dragon-fire-banner.svg" width="100%" alt="Himanshu Raj dragon fire banner"/>
+</div>
+
 <h3 align="center">Aspiring Full Stack Developer | AI and Web Innovation</h3>
 
 <p align="center">
