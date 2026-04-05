@@ -51,14 +51,14 @@ My focus is on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuraj650&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj650&theme=transparent&hide_border=true" width="49%" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj650&theme=transparent&hide_border=true" width="65%" alt="streak stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuraj650&layout=compact&theme=transparent&hide_border=true" width="40%" alt="top languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshuraj650&theme=algolia&no-frame=true&margin-w=10&column=4" width="58%" alt="trophies"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/himanshuraj650?style=for-the-badge&color=00D1B2" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/himanshuraj650/CipherRx?style=for-the-badge&color=1F2A44" alt="cipherrx stars"/>
+  <img src="https://img.shields.io/github/languages/top/himanshuraj650/CipherRx?style=for-the-badge&color=0B0F1A" alt="top language"/>
+</p>
 
 ---
 
@@ -66,20 +66,27 @@ My focus is on:
 
 <p align="center">
   <a href="https://github.com/himanshuraj650/Codesoft-Internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuraj650&repo=Codesoft-Internship&theme=transparent&hide_border=true" alt="Codesoft Internship"/>
+    <img src="https://img.shields.io/badge/Codesoft--Internship-View%20Repository-1F2A44?style=for-the-badge&logo=github&logoColor=white" alt="Codesoft Internship"/>
   </a>
   <a href="https://github.com/himanshuraj650/CipherRx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuraj650&repo=CipherRx&theme=transparent&hide_border=true" alt="CipherRx"/>
+    <img src="https://img.shields.io/badge/CipherRx-View%20Repository-00D1B2?style=for-the-badge&logo=github&logoColor=white" alt="CipherRx"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/himanshuraj650/axyntrel-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuraj650&repo=axyntrel-1&theme=transparent&hide_border=true" alt="axyntrel-1"/>
+    <img src="https://img.shields.io/badge/axyntrel--1-View%20Repository-0B0F1A?style=for-the-badge&logo=github&logoColor=white" alt="axyntrel-1"/>
   </a>
   <a href="https://github.com/himanshuraj650/roseday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuraj650&repo=roseday&theme=transparent&hide_border=true" alt="roseday"/>
+    <img src="https://img.shields.io/badge/roseday-View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="roseday"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshuraj650/CipherRx"><img src="https://img.shields.io/github/stars/himanshuraj650/CipherRx?style=flat-square" alt="CipherRx stars"/></a>
+  <a href="https://github.com/himanshuraj650/CipherRx"><img src="https://img.shields.io/github/forks/himanshuraj650/CipherRx?style=flat-square" alt="CipherRx forks"/></a>
+  <a href="https://github.com/himanshuraj650/Codesoft-Internship"><img src="https://img.shields.io/github/stars/himanshuraj650/Codesoft-Internship?style=flat-square" alt="Codesoft stars"/></a>
+  <a href="https://github.com/himanshuraj650/Codesoft-Internship"><img src="https://img.shields.io/github/forks/himanshuraj650/Codesoft-Internship?style=flat-square" alt="Codesoft forks"/></a>
 </p>
 
 ---
