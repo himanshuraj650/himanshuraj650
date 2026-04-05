@@ -58,7 +58,12 @@ My focus is on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj650&theme=transparent&hide_border=true" width="65%" alt="streak stats"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj650&theme=transparent&hide_border=true" width="100%" alt="streak stats"/></td>
+      <td><img src="./assets/streak-fire-core.svg" width="100%" alt="streak fire core"/></td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
