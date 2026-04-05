@@ -2,11 +2,17 @@
   <img src="./assets/dragon-fire-banner-v2.svg" width="100%" alt="Himanshu Raj dragon fire banner"/>
 </div>
 
-<h3 align="center">Aspiring Full Stack Developer | AI and Web Innovation</h3>
+<h1 align="center">Himanshu Raj</h1>
+<h3 align="center">Full Stack Developer in Progress | AI + Web Product Builder</h3>
+
+<p align="center">
+  Building premium digital experiences with clean engineering, practical AI integration, and consistent execution.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-00D1B2?style=for-the-badge" alt="open to collaboration"/>
   <img src="https://img.shields.io/badge/Focused%20on-Full%20Stack%20%2B%20AI-1F2A44?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-0B0F1A?style=for-the-badge" alt="status"/>
 </p>
 
 <div align="center">
@@ -17,19 +23,30 @@
   <a href="https://github.com/himanshuraj650"><img src="https://komarev.com/ghpvc/?username=himanshuraj650&label=PROFILE+VIEWS&color=00D1B2&style=for-the-badge" alt="profile views"/></a>
   <a href="https://www.linkedin.com/in/himanshuraj6200/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://github.com/himanshuraj650?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Projects-1F2A44?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+  <img src="https://img.shields.io/github/followers/himanshuraj650?style=for-the-badge&color=0B0F1A" alt="followers"/>
 </p>
 
 ---
 
-## About Me
+## Executive Summary
 
-I am **Himanshu Raj**, an aspiring Full Stack Developer passionate about AI and web innovation.
+I am Himanshu Raj, a developer focused on shipping modern web products that look sharp, run fast, and solve real problems. My current growth path combines full stack engineering, practical AI implementation, and strong consistency in code quality.
 
-My focus is on:
-- Building interactive and responsive web experiences
-- Developing scalable backend logic for real products
-- Exploring AI-driven ideas that solve practical problems
-- Improving problem-solving through consistent coding practice
+I work with a product-first mindset:
+- Experience quality: interfaces that feel premium and intuitive
+- System quality: backend logic that is clean, stable, and scalable
+- Delivery quality: frequent execution with measurable improvement
+
+---
+
+## Premium Focus Matrix
+
+| Track | Current Focus | Outcome |
+|---|---|---|
+| Frontend Engineering | Responsive UI architecture and polished interaction design | Professional product feel |
+| Backend Engineering | Robust APIs and maintainable code structure | Reliable and scalable systems |
+| AI Integration | Practical feature-layer AI in web workflows | Smarter product capabilities |
+| DSA and Problem Solving | Algorithmic consistency and performance thinking | Better engineering decisions |
 
 ---
 
@@ -49,9 +66,17 @@ My focus is on:
   <img src="https://img.shields.io/badge/Web%20Innovation-1F2A44?style=for-the-badge&logo=vercel&logoColor=white" alt="web innovation"/>
 </p>
 
+### Core Strengths
+<p align="left">
+  <img src="https://img.shields.io/badge/System%20Thinking-Premium-1F2A44?style=flat-square" alt="system thinking"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-High-00D1B2?style=flat-square" alt="code quality"/>
+  <img src="https://img.shields.io/badge/Execution-Consistent-0A66C2?style=flat-square" alt="execution"/>
+  <img src="https://img.shields.io/badge/Product%20Mindset-Strong-0B0F1A?style=flat-square" alt="product mindset"/>
+</p>
+
 ---
 
-## GitHub Insights
+## Performance Dashboard
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuraj650&theme=github-compact&hide_border=true&area=true" width="100%" alt="activity graph"/>
@@ -74,7 +99,7 @@ My focus is on:
 
 ---
 
-## Featured Work
+## Flagship Repositories
 
 <p align="center">
   <a href="https://github.com/himanshuraj650/Codesoft-Internship">
@@ -103,12 +128,21 @@ My focus is on:
 
 ---
 
-## 2026 Goals
+## 2026 Roadmap
 
-- Ship more complete end-to-end full-stack projects
-- Integrate AI features into practical web applications
-- Strengthen DSA and system design thinking
-- Contribute consistently and improve open-source visibility
+- Launch complete end-to-end full stack products with premium UX
+- Integrate production-ready AI features into practical applications
+- Strengthen DSA and architectural thinking for scale
+- Build a stronger open source and engineering brand presence
+
+---
+
+## Connect and Collaborate
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshuraj6200/"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile"/></a>
+  <a href="https://github.com/himanshuraj650?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Portfolio-1F2A44?style=for-the-badge&logo=github&logoColor=white" alt="github portfolio"/></a>
+</p>
 
 ---
 
