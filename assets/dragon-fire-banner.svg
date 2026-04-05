@@ -43,8 +43,8 @@
     </text>
   </g>
 
-  <g id="dragon" transform="translate(-230 178)">
-    <animateTransform attributeName="transform" type="translate" from="-230 178" to="1240 178" dur="18s" repeatCount="indefinite"/>
+  <g id="dragon" transform="translate(220 178)">
+    <animateTransform attributeName="transform" type="translate" from="120 178" to="980 178" dur="8s" repeatCount="indefinite"/>
 
     <path d="M20 52 L66 24 L135 18 L172 34 L204 31 L170 48 L214 56 L168 64 L145 90 L114 72 L90 80 L79 64 L45 70 Z"
           fill="#2a2f49" stroke="#94b8ff" stroke-width="2"/>
